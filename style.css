@@ -1,0 +1,28 @@
+body{
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 100px auto;
+    box-sizing: border-box;
+    background-color: rgb(188, 146, 199);
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+    color: white;
+
+}
+h1{
+    color: rgb(97, 37, 131);
+} 
+.form{
+    font-weight: bold;
+    color: rgb(97, 37, 131);
+}
+.form input {
+    width: 100px;
+}
+
+.form button{
+    color:  rgb(97, 37, 131);
+    font-weight: bold;
+}
+ 
